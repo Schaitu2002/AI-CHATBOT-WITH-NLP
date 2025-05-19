@@ -1,5 +1,4 @@
 # AI-CHATBOT-WITH-NLP
-# API-INTEGRATION-AND-DATA-VISUALIZATION
 * COMPANY : CODTECH IT SOLUTIONS
 * NAME : SURU CHAITANYA
 * INTERN ID : CT08DA121
@@ -50,7 +49,7 @@ If a match is found, the chatbot returns a random response from that intent.
 
 If no intent matches, it returns a default fallback message.
 
-## OUTPUT
+## OUTPUT:
 
 ## Example Use Case:
 
