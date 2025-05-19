@@ -54,11 +54,14 @@ If no intent matches, it returns a default fallback message.
 ## Example Use Case:
 
 User: Hi
+
 ChatBot: Hi there!
 
 User: Thank you
+
 ChatBot: No problem!
 
 User: Bye
+
 ChatBot: Goodbye!
 
